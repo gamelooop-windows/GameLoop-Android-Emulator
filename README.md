@@ -3,7 +3,7 @@
 **GameLoop** is Tencent's Android emulator 5.1.153.90 (May 24, 2026), 64-bit. gameloop download, download gameloop, pubg gameloop, gameloop 64 bit, gameloop download for pc. PUBG Mobile, Call of Duty Mobile, AOW engine. No VT required.
 
 
-<img width="600" height="600" alt="image" src="https://github.com/user-attachments/assets/a2111d82-52b7-4e20-b4d3-3d822df57195" />
+<img width="200" height="200" alt="image" src="https://github.com/user-attachments/assets/a2111d82-52b7-4e20-b4d3-3d822df57195" />
 
 <img width="1440" height="900" alt="images1" src="https://github.com/user-attachments/assets/4aa76e81-844f-473d-b374-2a9d3b46705d" />
 <img width="1440" height="900" alt="images2" src="https://github.com/user-attachments/assets/04956b66-354c-44b7-a345-7bc9711ba49d" />
