@@ -1,0 +1,3 @@
+/* rev-a7d14e-20261001 */
+FAQ.txt
+64-bit pin. no VT. 32-bit is a different build.
